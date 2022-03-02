@@ -8,7 +8,6 @@ I'm currently learning
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=localtic)](https://solved.ac/localtic)
 
-(https://github-readme-stats.vercel.app/api?username=localtic)](https://github.com/localtic/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localtic&theme=vue&show_icons=true)
 
 <!--
