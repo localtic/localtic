@@ -3,6 +3,13 @@ I'm currently learning
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=The Algorithms&logoColor=white"/>
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flocaltic&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=localtic)](https://solved.ac/localtic)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localtic)](https://github.com/localtic/github-readme-stats)
+
 <!--
 **localtic/localtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
