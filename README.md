@@ -8,7 +8,8 @@ I'm currently learning
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=localtic)](https://solved.ac/localtic)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localtic)](https://github.com/localtic/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=localtic)](https://github.com/localtic/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=localtic&theme=vue&show_icons=true)
 
 <!--
 **localtic/localtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
